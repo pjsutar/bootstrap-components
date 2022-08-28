@@ -1,0 +1,24 @@
+{
+  "name": "bootstrap-components",
+  "version": "1.0.0",
+  "description": "My experiments with Bootstrap, HTML, CSS, JS and Node",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pjsutar/bootstrap-components.git"
+  },
+  "author": "Pawan Sutar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pjsutar/bootstrap-components/issues"
+  },
+  "homepage": "https://github.com/pjsutar/bootstrap-components#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
